@@ -4,65 +4,49 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="2" target="3">
+                <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" parent="1" source="2" target="3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="4">
+                <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="5">
+                <mxCell id="17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="The Cost of the Pizza" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2" value="The surface area and volume of the cone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="160" y="150" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="6">
+                <mxCell id="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="3" value="Input" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-30" y="260" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="11">
+                <mxCell id="20" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;rounded=0;" edge="1" parent="1" source="4" target="11">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="10">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="220" y="460"/>
-                            <mxPoint x="45" y="460"/>
-                        </Array>
-                    </mxGeometry>
+                <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;rounded=0;" edge="1" parent="1" source="4" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="12">
-                    <mxGeometry relative="1" as="geometry">
-                        <Array as="points">
-                            <mxPoint x="220" y="460"/>
-                            <mxPoint x="380" y="460"/>
-                        </Array>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="4" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="4" value="Process" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="160" y="260" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="16">
+                <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="5" value="Output" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="370" y="260" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Get the diameter(inch) of the pizza" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="6" value="Get the radius(cm) and height(cm) of the cone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="-40" y="370" width="140" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="untaxed_price = 0.75 + 1.00 + 0.50 * diameter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="-30" y="500" width="150" height="60" as="geometry"/>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;surface_area =&amp;nbsp;&lt;div class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;stixgeneral&amp;#34; , &amp;#34;georgia&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div class=&quot;lr-fy-ecl lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; font-style: italic ; font-size: 12px&quot;&gt;π*&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; margin-left: 0.2em ; font-size: 12px&quot;&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-el lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; margin: -4px ; padding: 4px ; font-style: italic ; cursor: pointer ; font-size: 12px&quot;&gt;r&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;stixgeneral&amp;#34; , &amp;#34;georgia&amp;#34; ; background-color: rgb(255 , 255 , 255) ; margin-left: 0.2em&quot;&gt;&lt;/div&gt;&lt;/font&gt;&lt;div class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;stixgeneral&amp;#34; , &amp;#34;georgia&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add lr-fy-par&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; transform: scaley(1.13) ; padding-right: 0.15em ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;(&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div class=&quot;lr-fy-el lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; margin: -4px ; padding: 4px ; font-style: italic ; cursor: pointer&quot;&gt;r&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; margin-left: 0.1em ; margin-right: 0.1em&quot;&gt;+&lt;/div&gt;&lt;/font&gt;&lt;div class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; padding: 1px 3px 2px ; border-top: 1px solid black ; margin-top: 1px ; margin-left: 20.6846px ; font-size: 12px&quot;&gt;&lt;div class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; font-size: 12px&quot;&gt;&lt;div class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s&quot;&gt;&lt;div class=&quot;lr-fy-el lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; margin: -4px ; padding: 4px ; font-style: italic ; cursor: pointer ; font-size: 12px&quot;&gt;h^&lt;/div&gt;&lt;div class=&quot;lr-fy-ecv lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; font-family: &amp;#34;stixgeneral&amp;#34; , &amp;#34;times&amp;#34; , &amp;#34;times new roman&amp;#34; , serif ; margin-left: 0.15em ; vertical-align: top ; font-size: 12px&quot;&gt;2&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s ; margin-left: 0.1em ; margin-right: 0.1em&quot;&gt;+&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s&quot;&gt;&lt;div class=&quot;lr-fy-el lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; margin: -4px ; padding: 4px ; font-style: italic ; cursor: pointer ; font-size: 12px&quot;&gt;r^&lt;/div&gt;&lt;div class=&quot;lr-fy-ecv lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; font-family: &amp;#34;stixgeneral&amp;#34; , &amp;#34;times&amp;#34; , &amp;#34;times new roman&amp;#34; , serif ; margin-left: 0.15em ; vertical-align: top ; font-size: 12px&quot;&gt;2&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add&quot; style=&quot;display: inline-block ; position: absolute ; transition: all 0.05s ease-in-out 0s ; border-top: 1px solid black ; bottom: 22px ; width: 43.5522px ; left: -27.671px ; transform: rotate(-75deg) ; font-size: 12px&quot;&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add&quot; style=&quot;font-size: 35px ; display: inline-block ; position: absolute ; transition: all 0.05s ease-in-out 0s ; border-top: 2px solid black ; bottom: 11px ; width: 22.7761px ; left: -26.1252px ; transform: rotate(75deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add lr-fy-par&quot; style=&quot;font-size: 35px ; display: inline-block ; position: relative ; transition: all 0.05s ease-in-out 0s ; transform: scaley(1.13) ; padding-left: 0.15em&quot;&gt;)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="490" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="HST = untaxed_price * 0.13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="160" y="500" width="120" height="60" as="geometry"/>
+                <mxCell id="12" value="volume =&amp;nbsp;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;stixgeneral&amp;#34; , &amp;#34;georgia&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;div class=&quot;lr-fy-ecl lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s ; font-style: italic&quot;&gt;π*&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s ; margin-left: 0.2em&quot;&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s&quot;&gt;&lt;div class=&quot;lr-fy-el lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s ; margin: -4px ; padding: 4px ; font-style: italic ; cursor: pointer&quot;&gt;r^&lt;/div&gt;&lt;div class=&quot;lr-fy-ecv lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s ; font-family: &amp;#34;stixgeneral&amp;#34; , &amp;#34;times&amp;#34; , &amp;#34;times new roman&amp;#34; , serif ; margin-left: 0.15em ; vertical-align: top&quot;&gt;2*&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem lr-fy-eq-add&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;stixgeneral&amp;#34; , &amp;#34;georgia&amp;#34; ; background-color: rgb(255 , 255 , 255) ; margin-left: 0.2em&quot;&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s ; color: rgb(32 , 33 , 36) ; font-family: &amp;#34;stixgeneral&amp;#34; , &amp;#34;georgia&amp;#34; ; background-color: rgb(255 , 255 , 255) ; vertical-align: middle&quot;&gt;&lt;div class=&quot;lr-fy-el lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s ; margin: -4px ; padding: 4px ; font-style: italic ; cursor: pointer&quot;&gt;h&lt;/div&gt;&lt;div class=&quot;lr-fy-eq-add&quot; style=&quot;width: 13.5px ; height: 1px ; background-color: black ; margin-top: 2px ; margin-bottom: 2px&quot;&gt;&lt;/div&gt;&lt;div class=&quot;lr-fy-ecv lr-fy-eq-elem&quot; style=&quot;display: inline-block ; position: relative ; transition: 0.05s ease-in-out 0s ; font-family: &amp;#34;stixgeneral&amp;#34; , &amp;#34;times&amp;#34; , &amp;#34;times new roman&amp;#34; , serif ; margin-bottom: 8px&quot;&gt;3&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="490" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="total_cost = untaxed_price + HST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="320" y="500" width="120" height="60" as="geometry"/>
-                </mxCell>
-                <mxCell id="16" value="Show total_cost" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="16" value="Show surface area and volume" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="370" y="370" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>

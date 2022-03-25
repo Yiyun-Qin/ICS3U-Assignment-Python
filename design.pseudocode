@@ -1,5 +1,4 @@
-GET diameter
-CALCULATE untaxed_price = 0.75 + 1.00 + 0.5 * diameter
-CALCULATE HST = untaxed_price * 0.13
-CALCULATE total_cost = untaxed_price + HST
-SHOW total_cost
+GET radius and height
+CALCULATE volume = π*r^2*h/3
+CALCULATE surface_area = π * r * (r + pow((pow(height, 2) + pow(radius, 2)), Fraction(1, 2))
+SHOW surface_area and volume
