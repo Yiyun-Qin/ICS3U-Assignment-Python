@@ -26,7 +26,7 @@ def main():
     # output
     print("")
     print("The surface area of the cone is {:,.2f} cm².".format(surface_area))
-    print("The volume of the cone is {:,.2f} cm\u00b3.".format(volume))
+    print("The volume of the cone is {:,.2f} cm³.".format(volume))
     print("\nDone.")
 
 
